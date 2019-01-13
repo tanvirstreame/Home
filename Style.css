@@ -3,14 +3,13 @@ html {
    }
 body
 {
-    background-color:#fff;
     margin: 0px;
     background-image: url("bg.jpg");
 }
 #nav-bar
 {
-    height: 30px;
-    background-color: #406eaa;
+    height: 40px;
+    background-color: #0abde3;
     margin-left:100px;
     margin-right:100px;
     box-shadow: 0 0 5px rgba(0,0,0,.4); 
@@ -28,7 +27,7 @@ body
 #top-head
 {
     height: 80px;
-    background-color: #406eaa;
+    background-color: #0abde3;
 }
 .nav-a
 {
@@ -38,12 +37,13 @@ body
  a:hover
 {
     text-decoration: none;
-    color:yellow;
+    color:#fff;
 }
 #pro-pic{
     margin-top: 23px;
     margin-left: 5px;
-    height: 200px;;
+    height: 200px;
+    border-radius:125px; 
 }
 #title-focus{
     color: #fff;
@@ -70,4 +70,16 @@ hr{
 svg{
     height:100px;width:100px;
     margin: 40px;
+}
+.links{
+    text-align: center;
+    padding-top: 10px;
+    height: 40px;
+}
+.links:hover{
+    background-color:#3863a0;
+}
+.t-ash{
+    color:#777;
+    font-size: x-large;
 }
