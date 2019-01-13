@@ -5,6 +5,7 @@ body
 {
     background-color:#fff;
     margin: 0px;
+    background-image: url("bg.jpg");
 }
 #nav-bar
 {
