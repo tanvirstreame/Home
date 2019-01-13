@@ -16,17 +16,20 @@ body
 }
 #main
 {
-    height:2000px;
+    height:2500px;
     margin-left:100px;
     margin-right:100px;
     margin-top: 50px;
     box-shadow: 0 0 5px rgba(0,0,0,.4);
-    background-color:  #e2ebf5;
+    background-color: #fff;
 }
-
+#about
+{
+height: 400px;
+}
 #top-head
 {
-    height: 80px;
+    height: 600px;
     background-color: #0abde3;
 }
 .nav-a
@@ -40,9 +43,8 @@ body
     color:#fff;
 }
 #pro-pic{
-    margin-top: 23px;
-    margin-left: 5px;
-    height: 200px;
+    margin-top: 40px;
+    height: 250px;
     border-radius:125px; 
 }
 #title-focus{
@@ -82,4 +84,19 @@ svg{
 .t-ash{
     color:#777;
     font-size: x-large;
+}
+#type{
+    color: white;
+    text-shadow: #000;
+    font-family: fantasy;
+    font-size: 50px;
+}
+#fade{
+   display:none;
+   font-family: fantasy;
+   font-size: 30px;
+}
+#intro{
+    margin-top: 20px;
+    font-size: 20px;
 }
