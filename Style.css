@@ -16,7 +16,7 @@ body
 }
 #main
 {
-    height:2500px;
+    height:4500px;
     margin-left:100px;
     margin-right:100px;
     margin-top: 50px;
@@ -24,6 +24,10 @@ body
     background-color: #fff;
 }
 #about
+{
+height: 400px;
+}
+#work
 {
 height: 400px;
 }
@@ -99,4 +103,9 @@ svg{
 #intro{
     margin-top: 20px;
     font-size: 20px;
+}
+.icons
+{
+height: 90px;
+width: 230px;
 }
