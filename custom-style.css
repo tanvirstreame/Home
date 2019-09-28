@@ -1,0 +1,66 @@
+.intro-talk-title {
+    /*color: rgb(100, 255, 218);*/
+    font-size: 16px;
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    font-weight: normal;
+    margin: 0px 0px 20px 3px;
+    margin-top: 69px;
+}
+
+.title-top {
+    font-size: 80px;
+    line-height: 1.1;
+    margin: 0px;
+    font-weight: 600;
+}
+
+.intro-summary {
+    margin-top: 12px;
+}
+
+p {
+    font-family: Calibre, "San Francisco", "SF Pro Text", -apple-system, system-ui, BlinkMacSystemFont, Roboto, "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+.nav-link {
+    color: darkorange;
+}
+
+.pro-pic {
+    border-color: #3577b9;
+    margin-top: 69px;
+    height: 240px;
+    width: 200px;
+}
+
+#work-section {
+    margin-top: 180px;
+    padding-top: 50px;
+}
+
+#skill-section {
+    margin-top: 180px;
+    padding-top: 50px; 
+}
+
+#project-section {
+    margin-top: 180px;
+    padding-top: 50px;
+}
+
+#education-section {
+    margin-top: 180px;
+    padding-top: 50px;
+    margin-bottom: 180px;
+}
+
+.navbar {
+    background-color: #fff;
+}
+
+
