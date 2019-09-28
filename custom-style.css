@@ -16,8 +16,15 @@
 
 .intro-summary {
     margin-top: 12px;
+}
+
+p {
     font-family: Calibre, "San Francisco", "SF Pro Text", -apple-system, system-ui, BlinkMacSystemFont, Roboto, "Helvetica Neue", "Segoe UI", Arial, sans-serif;
     font-size: 20px;
+}
+
+h2 {
+    font-size: 60px;
 }
 
 .nav-link {
@@ -33,6 +40,27 @@
 
 #work-section {
     margin-top: 180px;
+    padding-top: 50px;
+}
+
+#skill-section {
+    margin-top: 180px;
+    padding-top: 50px; 
+}
+
+#project-section {
+    margin-top: 180px;
+    padding-top: 50px;
+}
+
+#education-section {
+    margin-top: 180px;
+    padding-top: 50px;
+    margin-bottom: 180px;
+}
+
+.navbar {
+    background-color: #fff;
 }
 
 
